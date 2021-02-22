@@ -20,6 +20,7 @@ h1, p {
 }
 
 body {
+  font-size:k;
 	align-items: center;
 	background-color: var(--white);
 	background: url("https://res.cloudinary.com/dbhnlktrv/image/upload/v1599997626/background_oeuhe7.jpg");
